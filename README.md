@@ -25,5 +25,5 @@ Feel free to reuse with citation.
 If you use these files, please cite:
 
 > [Author Names], “Hybrid sequential processing of mixed Sn-Pb 
-narrow-bandgap perovskite solar cells,” 2025.
+narrow-bandgap perovskite solar cells,” 2025.  
 > DOI (to be added after upload)
