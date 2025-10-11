@@ -7,9 +7,9 @@ narrow-bandgap perovskite solar cells**
 > (2025)
 
 ## Contents
-- `Pb0.3Sn0.7/` — Low-bandgap device simulation file
-- `Pb0.5Sn0.5/` — Medium composition
-- `Pb0.7Sn0.3/` — Pb-rich device
+- `Pb0.3Sn0.7/` — Low bandgap Sn rich device
+- `Pb0.5Sn0.5/` — Medium bandgap equimolar device
+- `Pb0.7Sn0.3/` — Higher bandgap Pb-rich device
 - Files exported from SCAPS (I–V)
 
 ## Notes
