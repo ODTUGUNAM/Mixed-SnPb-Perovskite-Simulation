@@ -25,7 +25,7 @@ Open these in SCAPS to view full layer stacks, parameters, and run J–V.
 Outputs used to generate the figures and to report metrics.
 
 - `Pb0.3Sn0.7I2.xlsx`, `Pb0.5Sn0.5I2.xlsx`, `Pb0.7Sn0.3I2.xlsx`  
-  – Numeric I–V points exported for each composition (units in sheet headers: V, mA cm⁻²).
+  – Numeric I–V points exported for each composition (units in sheet headers).
 - `Pb0.3Sn0.7I2.png`, `Pb0.5Sn0.5I2.png`, `Pb0.7Sn0.3I2.png`  
   – Per-device I–V plots.
 - `Overlaid.png`  
@@ -41,7 +41,7 @@ Outputs used to generate the figures and to report metrics.
 
 **Run or inspect simulations in SCAPS**
 1. Open **SCAPS-1D v3.3.12** (Windows).
-2. Load any file from `Scaps Files - Compositions/` (File → Open).
+2. Load any file from `Scaps Files - Compositions/` (All Scaps Setting → Load all settings).
 3. Run Light/Dark J–V as in the paper; parameter values are embedded in the `.scaps` files.
 
 **Reuse plotted data**
