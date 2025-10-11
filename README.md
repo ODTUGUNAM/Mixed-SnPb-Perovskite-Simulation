@@ -19,3 +19,11 @@ All simulations were run using **SCAPS-1D (University of Gent, version 3.3.12)**
 ## License
 Code and data are released under **MIT license**.  
 Feel free to reuse with citation.
+
+
+## Citation
+If you use these files, please cite:
+
+> [Author Names], “Hybrid sequential processing of mixed Sn-Pb 
+narrow-bandgap perovskite solar cells,” 2025.
+> DOI (to be added after upload)
