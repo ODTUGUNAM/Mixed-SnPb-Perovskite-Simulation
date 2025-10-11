@@ -3,8 +3,7 @@
 This repository contains SCAPS-1D simulation files used in the paper:
 
 > **Hybrid sequential processing of mixed Sn-Pb 
-narrow-bandgap perovskite solar cells** 
-** (2025)
+narrow-bandgap perovskite solar cells** (2025)
 
 ## Contents
 - `Pb0.3Sn0.7/` — Low-bandgap device simulation file
