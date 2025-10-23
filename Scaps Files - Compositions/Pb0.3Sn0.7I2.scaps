@@ -1,7 +1,7 @@
 > SCAPS 3.3.12 ELIS-UGent: Version scaps3312.exe, dated 03-06-2025, 14:37:06
 > SCAPS All SCAPS Settings file, saved on 	11-10-2025 at 23:01:09
 > problem definition file loaded :
-> \\mac\home\Desktop\Kayhan\Scaps Paper Project\Scaps Results\Final Fits\New fits\Red fit .scaps
+> \\home\Desktop\Scaps Results\Red fit .scaps
 > last saved: 	11-10-2025 at 23:01:09
 > 
 
@@ -430,3 +430,4 @@ width of energy distribution with a tail (a multiple of Echar) :   7.0000 (a def
 width of gaussian energy distribution (a multiple of Echar) :   6.0000 (a defect band is discretised into  separate single levels)
 
 >> end of general SCAPS settings file
+
