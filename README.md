@@ -67,5 +67,4 @@ You are welcome to reuse with attribution.
 If you use these files, please cite:
 
 **[Author Names]**, “Hybrid sequential processing of mixed Sn–Pb narrow-bandgap perovskite solar cells,” 2025.  
-DOI: _to be added after Zenodo deposit_
-
+DOI: _to be added later
