@@ -68,3 +68,6 @@ If you use these files, please cite:
 
 **[Author Names]**, “Hybrid sequential processing of mixed Sn–Pb narrow-bandgap perovskite solar cells,” 2025.  
 DOI: _to be added later
+
+
+Arranged by: Mohammad Dehnavi
