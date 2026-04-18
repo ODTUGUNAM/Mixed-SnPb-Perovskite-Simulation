@@ -66,8 +66,7 @@ You are welcome to reuse with attribution.
 ## Citation
 If you use these files, please cite:
 
-**Yasemin Saygili, Federico Ventosinos, Mohammad Dehnavi,
-Selçuk Yerci, Michele Sessolo and Henk Bolink**, “Hybrid sequential processing of mixed Sn–Pb narrow-bandgap perovskite solar cells,” 2026.  
+**Saygili, Y.; Ventosinos, F.; Dehnavi, M.; Yerci, S.; Sessolo, M.; Bolink, H. Hybrid sequential processing of mixed Sn–Pb narrow-bandgap perovskite solar cells. Dalton Trans. 2026, Advance Article. https://doi.org/10.1039/D5DT02879E**
 DOI: https://doi.org/10.1039/D5DT02879E
 
 
